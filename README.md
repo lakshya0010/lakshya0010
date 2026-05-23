@@ -1,16 +1,15 @@
-## Hi there 👋
+# Lakshya Sharma
 
-<!--
-**lakshya0010/lakshya0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Mathematics & Computing @ DTU (2024–28)
 
-Here are some ideas to get you started:
+Building AI-powered backend systems — multi-agent pipelines, production APIs, and GenAI tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently:** Looking for a summer internship in GenAI / backend engineering.
+
+**Stack:** Python · LangChain · LangGraph · FastAPI · Streamlit · Groq · Git
+
+**Projects:**
+- [Multi-Agent Invoice Reconciliation System](https://github.com/lakshya0010/invoice-reconciliation-agent) — LangGraph agents for invoice extraction, PO matching, and discrepancy detection
+- [GenAI Email & Task Automation Agent](https://github.com/lakshya0010/genai-portfolio) — LangChain agent exposed via FastAPI + Streamlit frontend
+
+📫 lakshya19j@gmail.com · [LinkedIn](https://www.linkedin.com/in/lakshya-sharma-551583312/)
