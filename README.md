@@ -17,7 +17,7 @@ I build backend systems where the LLM is the thinnest possible layer — the gra
 | Project | What it does |
 |---|---|
 | [Grasp](https://github.com/lakshya0010/grasp) | Codebase-understanding agent — real call graphs, minimal LLM layer |
-| [InsightForge](https://github.com/lakshya0010/insightforge) | AI-powered personal finance analyzer — [live](https://endearing-commitment-production-44a6.up.railway.app) |
+| [InsightForge](https://github.com/lakshya0010/insightforge) | AI-powered personal finance analyzer — [live](https://insightforge-frontend-wq4r.onrender.com/) |
 | [Invoice Reconciliation Agent](https://github.com/lakshya0010/invoice-reconciliation-agent) | LangGraph multi-agent pipeline for invoice/PO matching |
 
 ### 📫 Reach me
